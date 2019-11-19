@@ -103,7 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# simfiles
+# simfiles and analysis outputs
 /simfiles
 *.ssc
+*.csv
 
